@@ -1,8 +1,10 @@
 Hi, I'm Jumie 👋
+
 Medical Physicist | Software Engineer | Building AI Tools for Healthcare
 I'm on a mission to bridge medical physics and software engineering to create AI-driven tools that improve cancer treatment and healthcare delivery.
 
 🔬 My Unique Background
+
 I started my career in medical physics with hands-on clinical experience in radiation oncology:
 
 🎓 BSc Physics from University of Medical Sciences, Nigeria
@@ -19,6 +21,7 @@ So I made a deliberate transition into software development, spending 3+ years b
 
 ___________________________________________________________________________________________________
 💻 What I Do Now
+
 I specialize in building production-ready healthcare applications with focus on:
 
 ⚛️ Frontend Development: React.js, Next.js, TypeScript
@@ -35,7 +38,9 @@ Recent Impact:
 
 
 🚀 Featured Projects
+
 🏥 MedBloc - Healthcare Data Management System
+
 A full-stack healthcare application for secure patient-provider data sharing
 The Problem: Healthcare providers need secure, efficient ways to share patient data while maintaining privacy and compliance.
 My Solution:
@@ -51,6 +56,7 @@ Why This Matters: This project combines my medical physics background (understan
 
 _________________________________________________________________________________________
 🏛️ Enugu State Digital Health Portal
+
 Modernizing government healthcare systems across an entire state
 Contributed to large-scale digitalization of Enugu State's government ministries and healthcare agencies:
 
@@ -64,6 +70,7 @@ Impact: Modernized public health service delivery for entire state government
 _________________________________________________________________________________________
 
 💰 Norlics Tax & Revenue System
+
 Frontend for Enugu State's comprehensive tax automation platform
 
 Developed real-time payment processing and tracking interfaces
